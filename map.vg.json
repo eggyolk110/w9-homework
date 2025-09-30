@@ -16,7 +16,7 @@
 
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/eggyolk110/w9-homework/refs/heads/main/js/mls_map.json",
+        "url": "https://raw.githubusercontent.com/eggyolk110/w9-homework/refs/heads/main/json/mls_map.json",
         "format": { "type": "topojson", "feature": "my" }
       },
       "transform": [
